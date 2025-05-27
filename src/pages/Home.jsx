@@ -17,7 +17,7 @@ function Home() {
             Welcome to your dashboard, {localStorage.getItem("user")}! Here, you
             can access all your personalized features, including the BMI
             calculator, health insights, and more. Stay motivated and track your
-            progress with us!
+            progress with us!!
           </p>
         </div>
       </div>
