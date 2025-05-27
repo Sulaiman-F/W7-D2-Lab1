@@ -92,7 +92,7 @@ function Bmi() {
                 <p className="text-sky-500 text-2xl">{bmiResult}</p>
                 <img
                   className="w-30 h-auto"
-                  src="./src/assets/Underweight.png"
+                  src="../public/Underweight.png"
                   alt="Underweight"
                 />
               </>
@@ -101,7 +101,7 @@ function Bmi() {
                 <p className="text-green-500 text-2xl">{bmiResult}</p>
                 <img
                   className="w-30 h-auto"
-                  src="./src/assets/Normal.png"
+                  src="../public/Normal.png"
                   alt="Normal"
                 />
               </>
@@ -110,7 +110,7 @@ function Bmi() {
                 <p className="text-yellow-300 text-2xl">{bmiResult}</p>
                 <img
                   className="w-30 h-auto"
-                  src="./src/assets/RiskToOverweight.png"
+                  src="../public/RiskToOverweight.png"
                   alt="Risk to Overweight"
                 />
               </>
@@ -119,7 +119,7 @@ function Bmi() {
                 <p className="text-yellow-600 text-2xl">{bmiResult}</p>
                 <img
                   className="w-30 h-auto"
-                  src="./src/assets/Overweight.png"
+                  src="../public/Overweight.png"
                   alt="Overweight"
                 />
               </>
@@ -128,7 +128,7 @@ function Bmi() {
                 <p className="text-red-500 text-2xl">{bmiResult}</p>
                 <img
                   className="w-30 h-auto"
-                  src="./src/assets/Obese.png"
+                  src="../public/Obese.png"
                   alt="Obesity"
                 />
               </>
